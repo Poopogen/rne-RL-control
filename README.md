@@ -35,7 +35,7 @@ docs/                   # Figures referenced below
 
 **Task**
 - Design a reward function to train an RL agent to play Proly: collect as many flags as possible within 120 seconds, in a world with water and obstacle hazards.
-- Graded on 5 maps (3 public, 2 private), 10% each — so the reward has to produce a general navigation policy, not one that memorizes a single map.
+- Graded on 3 maps here — so the reward has to produce a general navigation policy, not one that memorizes a single map.
 
 ![Proly maps](docs/proly_maps.jpeg)
 
