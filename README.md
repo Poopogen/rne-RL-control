@@ -63,4 +63,6 @@ To fix this, the reward function combines these signals, by priority:
 
 Entropy coefficient was also raised from 0 to 0.01, so the policy doesn't settle on one action (e.g. walking into the same wall) too early.
 
-**Demo video:** [RL Control Playing Proly — 3 Maps](https://youtu.be/N9PysWJFPTs) — PPO + custom-designed reward function, collecting flags while avoiding water and obstacle hazards.
+**Demo video:** RL Control Playing Proly — 3 Maps — PPO + custom-designed reward function, collecting flags while avoiding water and obstacle hazards. (also on [YouTube](https://youtu.be/N9PysWJFPTs))
+
+https://github.com/user-attachments/assets/ed6a991d-3604-4a1d-b3bc-3a825c7b7fa0
